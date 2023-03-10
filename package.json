@@ -1,0 +1,34 @@
+{
+  "name": "Assignment4",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshchavda03/reactassignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshchavda03/reactassignment/issues"
+  },
+  "homepage": "https://github.com/rakeshchavda03/reactassignment#readme",
+  "dependencies": {
+    "parcel": "^2.8.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "main": "App.js",
+  "description": ""
+}
